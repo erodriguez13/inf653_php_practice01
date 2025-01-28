@@ -30,24 +30,24 @@ $name = "Dave";
 /* 03: create a variable called num and set it equal to 1984
    Output the variable
 */
-
+$num = 1984;
 
 /* 04: create a variable called dbl and set it equal to 99.956
    Output the variable
 */
-
+$dbl = 99.956;
 
 /* 05: create a variable called bool and set it equal to true
    Output the variable - might not be what you expect!
 */
-
+$book = true;
 
 /* 06: create a variable called band and set it equal to "Van Halen"
    Concatenate band and the num variable you created above to
    output the phrase:
    "1984 is my fave Van Halen album."
 */
-
+$band = "Van Halen";
 
 /* 07: create an array called names.
   Put the names "Jane", "John", and "Jody" in the array
